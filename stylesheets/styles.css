@@ -20,6 +20,10 @@
   font-style: normal;
 }
 
+a {
+  text-decoration: none;
+}
+
 a[href='#'] {
   text-decoration: none;
 }
